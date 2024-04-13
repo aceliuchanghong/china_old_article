@@ -1,10 +1,16 @@
 ## China_old_article
 
+### 肯定不全,欢迎PR
+
 ### Purpose
 
 先圣有言:为天地立心，为生民立命，为往圣继绝学，为万世开太平。
 
 希望可以:为往圣继绝学
+
+### 鸣谢名单
+
+* [wenyuange](https://github.com/wenyuange)
 
 ### Reference
 
