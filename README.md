@@ -12,6 +12,11 @@
 
 * [wenyuange](https://github.com/wenyuange)
 
+### Further
+
+考虑加一个大模型RAG,然后文章全部向量化存到数据库
+
+
 ### Reference
 
 * [中文github库整理](https://github.com/wenyuange)
